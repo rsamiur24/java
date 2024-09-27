@@ -22,7 +22,7 @@ if(pinNumberInput === '1234'){
     // step 4 
 
     const balance = document.getElementById('account-balance').innerText;
-    console.log(type of balance);
+    console.log( balance);
 
     // step 5 add money
     const addMoneyNumber = parseFloat(addMoneyInput);
